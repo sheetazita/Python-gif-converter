@@ -7,4 +7,4 @@
 ### in line#4 "clip = os.path.abspath('relaxsnowing.mov')", replace the video file name into your video file name (make sure the video file is at the same path as "converter.py")
 ### open up terminal in VS Code, type "Python converter.py" and it will convert your video into gif, you will see your finished gif inside the directory.
 
-![code-screenshot](Screen Shot 2020-02-12 at 12.34.40 AM.png)
+![code-screenshot](https://github.com/sheetazita/Python-gif-converter/blob/master/Screen%20Shot%202020-02-12%20at%2012.34.40%20AM.png?raw=true)
